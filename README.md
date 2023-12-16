@@ -10,3 +10,5 @@
 8.  Test the generator <br>
 9.  Fit the model<br>
 10. Make predictions with the trained CNN!<br>
+
+
